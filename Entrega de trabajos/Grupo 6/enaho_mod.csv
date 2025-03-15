@@ -1,0 +1,9 @@
+,,inghog2d,inghog2d,gashog2d,gashog2d
+,,mean,median,mean,median
+pobreza,nbi1,,,,
+no pobre,0,41483.64,30811.55,32560.46,27251.42
+no pobre,1,25945.49,21665.68,21946.11,20046.34
+pobre extremo,0,12789.43,10092.85,8384.46,7918.08
+pobre extremo,1,13938.83,11361.21,9048.72,8502.18
+pobre no extremo,0,20230.73,16260.11,14899.36,13943.96
+pobre no extremo,1,18634.61,15314.0,14865.04,13673.35
